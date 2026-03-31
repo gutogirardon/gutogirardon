@@ -19,6 +19,9 @@ Outside of work, I spend my time riding motorcycles and coding side projects tha
 - ⚔️ https://fatal.team/  
   Tools and systems for guild management and hunt organization
 
+- 🌿 https://olivenidle.com/
+  An idle game inspired by Tibia, focused on progression, hunts, and character growth
+
 Both projects are inspired by an old addiction to Tibia that never really went away
 
 ## Tech I work with
